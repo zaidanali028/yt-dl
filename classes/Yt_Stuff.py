@@ -1,6 +1,8 @@
-import sys
-import time
+# WILL CONTINUE SOON ...
+#KVNGRTHR!VE ROCKS
 
+
+import sys
 import requests as requests
 from pytube.exceptions import RegexMatchError
 from tqdm import tqdm
